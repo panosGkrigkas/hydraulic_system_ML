@@ -51,31 +51,80 @@ SE Efficiency factor % 1 Hz
 The target condition values are cycle-wise annotated in â€˜profile.txtâ€˜ (tab-delimited). As before, the row
 number represents the cycle number. The columns are
 
-1: Cooler condition / %:\n
+
+---
+
+
+1: Cooler condition / %:
+
+
+---
+
+
 3: close to total failure
 20: reduced effifiency
 100: full efficiency
 
+
+---
+
+
 2: Valve condition / %:
+
+
+---
+
+
 100: optimal switching behavior
 90: small lag
 80: severe lag
 73: close to total failure
 
+
+---
+
+
 3: Internal pump leakage:
+
+
+---
+
+
 0: no leakage
 1: weak leakage
 2: severe leakage
 
+
+---
+
+
 4: Hydraulic accumulator / bar:
+
+
+---
+
+
 130: optimal pressure
 115: slightly reduced pressure
 100: severely reduced pressure
 90: close to total failure
 
+
+---
+
+
 5: stable flag:
+
+
+---
+
+
 0: conditions were stable
 1: static conditions might not have been reached yet
+
+
+---
+
 
 Data set Citation Request:
 Nikolai Helwig, 

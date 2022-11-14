@@ -61,8 +61,8 @@ number represents the cycle number. The columns are
 ---
 
 
-3: close to total failure
-20: reduced effifiency
+3: close to total failure 
+20: reduced effifiency 
 100: full efficiency
 
 
@@ -75,9 +75,9 @@ number represents the cycle number. The columns are
 ---
 
 
-100: optimal switching behavior
-90: small lag
-80: severe lag
+100: optimal switching behavior 
+90: small lag 
+80: severe lag 
 73: close to total failure
 
 
@@ -90,8 +90,8 @@ number represents the cycle number. The columns are
 ---
 
 
-0: no leakage
-1: weak leakage
+0: no leakage 
+1: weak leakage 
 2: severe leakage
 
 
@@ -104,9 +104,9 @@ number represents the cycle number. The columns are
 ---
 
 
-130: optimal pressure
-115: slightly reduced pressure
-100: severely reduced pressure
+130: optimal pressure 
+115: slightly reduced pressure 
+100: severely reduced pressure 
 90: close to total failure
 
 
@@ -119,7 +119,7 @@ number represents the cycle number. The columns are
 ---
 
 
-0: conditions were stable
+0: conditions were stable 
 1: static conditions might not have been reached yet
 
 

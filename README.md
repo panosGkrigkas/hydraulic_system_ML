@@ -51,7 +51,7 @@ SE Efficiency factor % 1 Hz
 The target condition values are cycle-wise annotated in â€˜profile.txtâ€˜ (tab-delimited). As before, the row
 number represents the cycle number. The columns are
 
-1: Cooler condition / %:
+1: Cooler condition / %:\n
 3: close to total failure
 20: reduced effifiency
 100: full efficiency
